@@ -95,6 +95,4 @@ const SignUpForm = () => {
   )
 }
 
-SignUpForm.propTypes = {}
-
 export default SignUpForm
